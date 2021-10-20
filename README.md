@@ -1,5 +1,5 @@
 # Neural Lexicon Reader: Reduce Pronunciation Errors in End-to-end TTS by Leveraging External Textual Knowledge
-This is an implementation of the [paper](), along with the pipeline and pretrained model using an open dataset. Audio 
+This is an implementation of the [paper](https://arxiv.org/abs/2110.09698), along with the pipeline and pretrained model using an open dataset. Audio 
 samples of the paper is available [here](https://mutiann.github.io/papers/nlr).
 
 # Recipe
